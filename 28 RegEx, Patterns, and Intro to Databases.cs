@@ -14,8 +14,6 @@ using System;
 
 class Solution {
 
-
-
     static void Main(string[] args) {
         int N = Convert.ToInt32(Console.ReadLine());
 
